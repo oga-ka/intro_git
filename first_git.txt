@@ -4,3 +4,5 @@ Git‚Ì—ûK
 .git commit
 .git rm
 .git status
+.git diff
+.git git
